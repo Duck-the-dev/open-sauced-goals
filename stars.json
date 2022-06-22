@@ -1,27 +1,27 @@
 [
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 17959,
-    "open_issues_count": 75,
-    "forks_count": 3202
+    "stargazers_count": 17972,
+    "open_issues_count": 79,
+    "forks_count": 3204
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16652,
+    "stargazers_count": 16660,
     "open_issues_count": 124,
-    "forks_count": 696
+    "forks_count": 697
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 53345,
+    "stargazers_count": 53394,
     "open_issues_count": 3,
-    "forks_count": 7865
+    "forks_count": 7872
   },
   {
     "full_name": "mrdbourke/tensorflow-deep-learning",
-    "stargazers_count": 2633,
+    "stargazers_count": 2636,
     "open_issues_count": 7,
-    "forks_count": 1180
+    "forks_count": 1182
   },
   {
     "full_name": "OsamaElzero/Frontend-Tools",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "pinax/django-user-accounts",
-    "stargazers_count": 993,
+    "stargazers_count": 994,
     "open_issues_count": 65,
     "forks_count": 354
   },
   {
     "full_name": "microsoft/IoT-For-Beginners",
-    "stargazers_count": 10269,
+    "stargazers_count": 10273,
     "open_issues_count": 30,
-    "forks_count": 1286
+    "forks_count": 1288
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 69107,
+    "stargazers_count": 69143,
     "open_issues_count": 19,
-    "forks_count": 10340
+    "forks_count": 10343
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 40929,
+    "stargazers_count": 40955,
     "open_issues_count": 92,
-    "forks_count": 5675
+    "forks_count": 5671
   },
   {
     "full_name": "thedaviddias/Resources-Front-End-Beginner",
@@ -67,75 +67,75 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 30633,
+    "stargazers_count": 30645,
     "open_issues_count": 65,
     "forks_count": 2025
   },
   {
     "full_name": "Kareadita/Kavita",
-    "stargazers_count": 1253,
-    "open_issues_count": 70,
+    "stargazers_count": 1256,
+    "open_issues_count": 71,
     "forks_count": 63
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 91823,
+    "stargazers_count": 92154,
     "open_issues_count": 141,
-    "forks_count": 5936
+    "forks_count": 5948
   },
   {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 13037,
+    "stargazers_count": 13039,
     "open_issues_count": 36,
-    "forks_count": 3700
+    "forks_count": 3701
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 40921,
+    "stargazers_count": 40943,
     "open_issues_count": 3,
-    "forks_count": 9029
+    "forks_count": 9035
   },
   {
     "full_name": "bradtraversy/50projects50days",
-    "stargazers_count": 17346,
+    "stargazers_count": 17415,
     "open_issues_count": 47,
-    "forks_count": 4739
+    "forks_count": 4752
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 54601,
+    "stargazers_count": 54626,
     "open_issues_count": 279,
     "forks_count": 7366
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 61902,
+    "stargazers_count": 61937,
     "open_issues_count": 12,
-    "forks_count": 4865
+    "forks_count": 4863
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 146654,
-    "open_issues_count": 650,
-    "forks_count": 24180
+    "stargazers_count": 146689,
+    "open_issues_count": 652,
+    "forks_count": 24183
   },
   {
     "full_name": "vuejs/vitepress",
-    "stargazers_count": 4660,
-    "open_issues_count": 101,
-    "forks_count": 572
+    "stargazers_count": 4672,
+    "open_issues_count": 95,
+    "forks_count": 575
   },
   {
     "full_name": "borisdayma/dalle-mini",
-    "stargazers_count": 9276,
-    "open_issues_count": 64,
-    "forks_count": 634
+    "stargazers_count": 9501,
+    "open_issues_count": 65,
+    "forks_count": 658
   },
   {
     "full_name": "jeremylong/DependencyCheck",
-    "stargazers_count": 4177,
-    "open_issues_count": 335,
-    "forks_count": 951
+    "stargazers_count": 4180,
+    "open_issues_count": 333,
+    "forks_count": 952
   },
   {
     "full_name": "TareqMonwer/Django-School-Management",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 28946,
+    "stargazers_count": 28955,
     "open_issues_count": 126,
-    "forks_count": 1936
+    "forks_count": 1938
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 145587,
+    "stargazers_count": 145708,
     "open_issues_count": 246,
-    "forks_count": 13897
+    "forks_count": 13903
   },
   {
     "full_name": "fl4viooliveira/django_ecommerce",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 222082,
-    "open_issues_count": 49,
-    "forks_count": 60169
+    "stargazers_count": 222146,
+    "open_issues_count": 48,
+    "forks_count": 60193
   }
 ]
